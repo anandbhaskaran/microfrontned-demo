@@ -2,6 +2,8 @@
 
 This example demos consumption of federated modules from a Webpack bundle. `layout` app depends on a component exposed by `home` app.
 
+Inspired from [Module Federation](https://github.com/module-federation/module-federation-examples)
+
 ---
 
 # Running Demo
